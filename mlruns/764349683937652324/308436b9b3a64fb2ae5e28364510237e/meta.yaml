@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/308436b9b3a64fb2ae5e28364510237e/artifacts
+end_time: 1705771221929
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: active
+run_id: 308436b9b3a64fb2ae5e28364510237e
+run_name: Feature_fraction
+run_uuid: 308436b9b3a64fb2ae5e28364510237e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705771219213
+status: 3
+tags: []
+user_id: ksush

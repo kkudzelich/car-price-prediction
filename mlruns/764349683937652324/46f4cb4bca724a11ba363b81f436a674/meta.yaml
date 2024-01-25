@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/46f4cb4bca724a11ba363b81f436a674/artifacts
+deleted_time: 1705769720294
+end_time: 1705769594528
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: deleted
+run_id: 46f4cb4bca724a11ba363b81f436a674
+run_name: Changed log metrics from -1 to the best iteration
+run_uuid: 46f4cb4bca724a11ba363b81f436a674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705769590809
+status: 3
+tags: []
+user_id: ksush

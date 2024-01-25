@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/76d66878dce6403cab0e94d89abe9087/artifacts
+end_time: 1705939289832
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: active
+run_id: 76d66878dce6403cab0e94d89abe9087
+run_name: Bagging_fraction
+run_uuid: 76d66878dce6403cab0e94d89abe9087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705939285985
+status: 3
+tags: []
+user_id: ksush

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/4986d42ab0a543aebce2ab30e77ee591/artifacts
+end_time: 1705772762944
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: active
+run_id: 4986d42ab0a543aebce2ab30e77ee591
+run_name: Max_depth
+run_uuid: 4986d42ab0a543aebce2ab30e77ee591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705772759115
+status: 3
+tags: []
+user_id: ksush

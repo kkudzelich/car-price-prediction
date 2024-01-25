@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/bbc7c2748d1f49ca93ac53f2846f061d/artifacts
+deleted_time: 1705938567595
+end_time: 1705938431555
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: deleted
+run_id: bbc7c2748d1f49ca93ac53f2846f061d
+run_name: Change types of categorical features to category
+run_uuid: bbc7c2748d1f49ca93ac53f2846f061d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705938428136
+status: 3
+tags: []
+user_id: ksush

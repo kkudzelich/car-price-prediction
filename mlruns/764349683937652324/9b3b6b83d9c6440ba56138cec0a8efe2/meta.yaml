@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/9b3b6b83d9c6440ba56138cec0a8efe2/artifacts
+deleted_time: 1706007057911
+end_time: 1705996606426
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: deleted
+run_id: 9b3b6b83d9c6440ba56138cec0a8efe2
+run_name: Gamma loss
+run_uuid: 9b3b6b83d9c6440ba56138cec0a8efe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705996601132
+status: 3
+tags: []
+user_id: ksush

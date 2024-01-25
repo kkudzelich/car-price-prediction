@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/a8ee03b8cc294a5cad999a95705f7a8a/artifacts
+end_time: 1705773055134
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: active
+run_id: a8ee03b8cc294a5cad999a95705f7a8a
+run_name: lambda_l1
+run_uuid: a8ee03b8cc294a5cad999a95705f7a8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705773052935
+status: 3
+tags: []
+user_id: ksush

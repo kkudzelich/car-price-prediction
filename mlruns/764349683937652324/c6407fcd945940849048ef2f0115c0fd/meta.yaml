@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/c6407fcd945940849048ef2f0115c0fd/artifacts
+deleted_time: 1705844286403
+end_time: 1705844214916
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: deleted
+run_id: c6407fcd945940849048ef2f0115c0fd
+run_name: Learning_rate
+run_uuid: c6407fcd945940849048ef2f0115c0fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705844212931
+status: 3
+tags: []
+user_id: ksush

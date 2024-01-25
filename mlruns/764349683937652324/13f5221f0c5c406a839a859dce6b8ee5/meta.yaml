@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/13f5221f0c5c406a839a859dce6b8ee5/artifacts
+end_time: 1705767223405
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: active
+run_id: 13f5221f0c5c406a839a859dce6b8ee5
+run_name: Min_child_samples
+run_uuid: 13f5221f0c5c406a839a859dce6b8ee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705767222383
+status: 3
+tags: []
+user_id: ksush
