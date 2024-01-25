@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/5aeadfbd2b8745a589cc0458103145ac/artifacts
+end_time: 1705770469117
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: active
+run_id: 5aeadfbd2b8745a589cc0458103145ac
+run_name: Num_leaves
+run_uuid: 5aeadfbd2b8745a589cc0458103145ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705770466184
+status: 3
+tags: []
+user_id: ksush

@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/0c2faded656c46edb62073cda7f48a2b/artifacts
+deleted_time: 1705850148038
+end_time: 1705850042310
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: deleted
+run_id: 0c2faded656c46edb62073cda7f48a2b
+run_name: Adding 1 more feature
+run_uuid: 0c2faded656c46edb62073cda7f48a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705850038611
+status: 3
+tags: []
+user_id: ksush

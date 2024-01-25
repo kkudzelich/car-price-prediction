@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/6e74d881e52641cf9a4faae74d3734b6/artifacts
+end_time: 1705942055229
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: active
+run_id: 6e74d881e52641cf9a4faae74d3734b6
+run_name: One more optuna params
+run_uuid: 6e74d881e52641cf9a4faae74d3734b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705942052113
+status: 3
+tags: []
+user_id: ksush

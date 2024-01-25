@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/ab60e0888c8d4065b7dddc57c9c0f316/artifacts
+deleted_time: 1705946227676
+end_time: 1705945456199
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: deleted
+run_id: ab60e0888c8d4065b7dddc57c9c0f316
+run_name: l1 loss
+run_uuid: ab60e0888c8d4065b7dddc57c9c0f316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705945453357
+status: 3
+tags: []
+user_id: ksush

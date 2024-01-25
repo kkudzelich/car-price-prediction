@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/1fe05df84948414c91ff5f54ce0613a8/artifacts
+deleted_time: 1705772185085
+end_time: 1705772171303
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: deleted
+run_id: 1fe05df84948414c91ff5f54ce0613a8
+run_name: Max_depth
+run_uuid: 1fe05df84948414c91ff5f54ce0613a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705772168165
+status: 3
+tags: []
+user_id: ksush

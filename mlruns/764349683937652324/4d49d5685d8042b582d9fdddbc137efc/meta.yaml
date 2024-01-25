@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/IT/Data_science/lessons/16.%20lesson%2016.01/mlruns/764349683937652324/4d49d5685d8042b582d9fdddbc137efc/artifacts
+end_time: 1705771037225
+entry_point_name: ''
+experiment_id: '764349683937652324'
+lifecycle_stage: active
+run_id: 4d49d5685d8042b582d9fdddbc137efc
+run_name: Bagging_freq
+run_uuid: 4d49d5685d8042b582d9fdddbc137efc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705771033842
+status: 3
+tags: []
+user_id: ksush
